@@ -1,3 +1,8 @@
+## support
+  + multiple files entry
+  + js、css & html livereload
+  + proxy switch 
+  + some simple gulp tasks 
 ## install
 ```script
 npm i webpack-dev-bash --save-dev
@@ -24,4 +29,18 @@ require('webpack-dev-bash').dev(
     projectPath: path.resolve()
   }
 )
+```
+#### hot reload
+insert in js
+```javascript
+    if(module.hot){
+          module.hot.accept();
+        }
+```
+#### inline reload
+insert in js
+```javascript
+    if (process.env.NODE_ENV !== 'prod') {
+      require('../../html/index.html')
+    }
 ```
