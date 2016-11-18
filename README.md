@@ -1,7 +1,3 @@
-## install
-```script
-npm i webpack-dev-bash --save-dev
-```
 ## usage
 #### webpack config
 ```script
