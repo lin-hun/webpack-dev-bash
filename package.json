@@ -1,7 +1,7 @@
 {
   "name": "webpack-dev-bash",
-  "version": "1.1.2",
-  "description": "wds",
+  "version": "1.1.3",
+  "description": "a simple package for webpack-dev-server",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -28,7 +28,6 @@
     "html-webpack-plugin": "^2.24.1",
     "jshint-stylish": "^2.0.1",
     "raw-loader": "^0.5.1",
-    "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "vinyl-named": "^1.1.0",
     "webpack": "^1.13.3",
