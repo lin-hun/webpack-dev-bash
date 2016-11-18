@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-bash",
-  "version": "1.1.7",
+  "version": "1.2.0",
   "description": "a simple package for webpack-dev-server",
   "main": "index.js",
   "scripts": {
