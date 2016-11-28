@@ -3,5 +3,5 @@ module.exports = {
     // wds dev server
     dev:require('./lib/gulp-webpack'),
     // gulp
-    gulp:require('./lib/gulp'),
+    // gulp:require('./lib/gulp'),
   }
