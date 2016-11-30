@@ -45,5 +45,6 @@ insert in js
     }
 ```
 ## log
+  + 1.3.6 add html minify
   + 1.3.5 add html-webpack-inline-source support
   
