@@ -44,4 +44,6 @@ insert in js
       require('../../html/index.html')
     }
 ```
-## 
+## log
+  + 1.3.5 add html-webpack-inline-source support
+  
