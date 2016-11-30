@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-bash",
-  "version": "1.2.1",
+  "version": "1.3.5",
   "description": "a simple package for webpack-dev-server",
   "main": "index.js",
   "scripts": {
@@ -39,7 +39,8 @@
     "log4js": "^1.0.1",
     "node-sass": "^3.13.0",
     "sass-loader": "^4.0.2",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^1.16.2",
+    "fusheng-html-webpack-inline-source-plugin": "^0.0.6"
   },
   "author": "浮生",
   "license": "MIT"
