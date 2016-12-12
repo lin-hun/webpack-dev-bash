@@ -45,6 +45,8 @@ insert in js
     }
 ```
 ## log
+  + 1.4.0 fix src bug
+  + 1.3.9 hidden no useful msg
   + 1.3.8 null
   + 1.3.7 add change build html dir & quite log
   + 1.3.6 add html minify
