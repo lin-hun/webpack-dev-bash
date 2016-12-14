@@ -45,6 +45,7 @@ insert in js
     }
 ```
 ## log
+  + 1.4.1 add proxy define
   + 1.4.0 fix src bug
   + 1.3.9 hidden no useful msg
   + 1.3.8 null
