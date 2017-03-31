@@ -1,7 +1,7 @@
 {
   "name": "webpack-dev-bash",
-  "version": "1.4.3",
-  "description": "a simple package for webpack-dev-server",
+  "version": "1.4.4",
+  "description": "build tools",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -40,7 +40,10 @@
     "vinyl-named": "^1.1.0",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2",
-    "xtemplate": "^4.1.3"
+    "xtemplate": "^4.1.3",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.2"
   },
   "author": "浮生",
   "license": "MIT"
