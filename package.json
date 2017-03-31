@@ -46,5 +46,8 @@
     "babel-preset-env": "^1.3.2"
   },
   "author": "浮生",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "postcss-loader": "^1.3.3"
+  }
 }
