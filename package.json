@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-bash",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "build tools",
   "main": "index.js",
   "scripts": {
