@@ -45,6 +45,7 @@ insert in js
     }
 ```
 ## log
+  + 1.4.8 add post css support & autoprefixer
   + 1.4.7 add babel support 
   + 1.4.1 add proxy define
   + 1.4.0 fix src bug
