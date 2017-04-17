@@ -34,7 +34,7 @@
     "gulp-uglify": "^1.1.0",
     "gulp-util": "^3.0.7",
     "gulp-xtemplate": "^2.1.0",
-    "html-webpack-plugin": "^2.24.1",
+    "html-webpack-plugin": "^2.28.0",
     "jshint-stylish": "^2.0.1",
     "log4js": "^1.0.1",
     "node-sass": "^3.13.0",
