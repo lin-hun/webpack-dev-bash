@@ -45,6 +45,7 @@ insert in js
     }
 ```
 ## log
+  + 1.5.5 simplify package dependence
   + 1.5.0 add unix support open browser
   + 1.4.8 add post css support & autoprefixer
   + 1.4.7 add babel support 
