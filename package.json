@@ -11,7 +11,6 @@
     "url": "https://github.com/lin-hun/webpack-dev-bash"
   },
   "dependencies": {
-    "autoprefixer": "^6.7.7",
     "babel-core": "6.x",
     "babel-loader": "6.x",
     "babel-preset-react": "6.x",
