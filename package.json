@@ -11,11 +11,12 @@
     "url": "https://github.com/lin-hun/webpack-dev-bash"
   },
   "dependencies": {
+    "autoprefixer": "^7.1.1",
     "babel-core": "6.x",
     "babel-loader": "6.x",
-    "babel-preset-react": "6.x",
     "babel-polyfill": "^6.23.0",
     "babel-preset-env": "^1.4.0",
+    "babel-preset-react": "6.x",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.25.0",
     "fusheng-html-webpack-inline-source-plugin": "^0.0.6",
