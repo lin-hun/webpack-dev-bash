@@ -1,7 +1,7 @@
 let path = require('path')
 var proxy = 'prod'
 // var proxy = 'dev'
-require('webpack-dev-bash').dev(
+require('../index').dev(
   {
     babel:true,
     env: 'dev',
