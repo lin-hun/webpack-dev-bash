@@ -1,2 +1,3 @@
 import {D} from './mods/test'
-console.log(D.c)
+console.log('sss')
+console.log('hahahha')
