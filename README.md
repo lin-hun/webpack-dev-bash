@@ -48,7 +48,8 @@ insert in js
 demo in test/ 
 
 ## log
-  + 2.0.0 migrate to webpack2 & add test
+  + 2.0.6 fix some bugs 
+  + 2.0.0 migrate to webpack2 & add example
   + 1.5.8 support react & jsx
   + 1.5.5 simplify package dependence
   + 1.5.0 add unix support open browser

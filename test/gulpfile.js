@@ -3,6 +3,7 @@ var proxy = 'prod'
 // var proxy = 'dev'
 require('../index').dev(
   {
+    // hot:true,
     babel:true,
     env: 'dev',
     output: path.resolve(__dirname, 'build'),
