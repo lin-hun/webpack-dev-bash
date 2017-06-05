@@ -1,0 +1,13 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "scripts": {
+    "game": "gulp dev --dir game,game-app",
+    "dev": "gulp dev-server",
+    "build": "webpack --colors --progress --config webpack.config.js"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}

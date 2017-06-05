@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-bash",
-  "version": "1.5.8",
+  "version": "2.0.6",
   "description": "build tools",
   "main": "index.js",
   "scripts": {
@@ -12,14 +12,14 @@
   },
   "dependencies": {
     "autoprefixer": "^7.1.1",
-    "babel-core": "6.x",
-    "babel-loader": "6.x",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
     "babel-polyfill": "^6.23.0",
-    "babel-preset-env": "^1.4.0",
-    "babel-preset-react": "6.x",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.25.0",
-    "fusheng-html-webpack-inline-source-plugin": "^0.0.6",
+    "html-webpack-inline-source-plugin": "0.0.9",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-util": "^3.0.7",
     "html-webpack-plugin": "^2.28.0",
@@ -30,8 +30,8 @@
     "sass-loader": "^4.0.2",
     "shelljs": "^0.7.7",
     "style-loader": "^0.13.1",
-    "webpack": "1.x",
-    "webpack-dev-server": "1.x"
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
   },
   "author": "浮生",
   "license": "MIT"

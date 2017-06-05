@@ -79,4 +79,4 @@ backup_script/
 # yarn
 yarn-error.log
 yarn.lock
-
+build/`

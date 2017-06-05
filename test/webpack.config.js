@@ -1,15 +1,9 @@
-module.exports = {
-  entry: './main.js',
-  output: {
-    filename: 'bundle.js'
-  },
-  module: {
-    loaders:[
-      {
-        test: /\.js[x]?$/,
-        exclude: /node_modules/,
-        loader: 'babel-loader?presets[]=react',
-      },
-    ]
+let path = require('path')
+module.exports = require('../index').common.config(
+  {
+    babel:true,
+    env: 'prod',
+    output: path.resolve(__dirname, 'build'),
+    projectPath: path.resolve()
   }
-};
+)
