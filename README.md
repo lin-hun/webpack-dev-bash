@@ -48,6 +48,7 @@ insert in js
 demo in test/ 
 
 ## log
+  + 2.0.8 add public path define
   + 2.0.7 add .css solve
   + 2.0.6 fix some bugs 
   + 2.0.0 migrate to webpack2 & add example
