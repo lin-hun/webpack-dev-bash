@@ -48,6 +48,7 @@ insert in js
 demo in test/ 
 
 ## log
+  + 2.0.9 add parallel uglify => reduce build time
   + 2.0.8 add public path define
   + 2.0.7 add .css solve
   + 2.0.6 fix some bugs 
