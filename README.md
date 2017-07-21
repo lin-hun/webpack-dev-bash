@@ -48,6 +48,7 @@ insert in js
 demo in test/ 
 
 ## log
+  + 2.2.1 remove gulp 
   + 2.1.2 extract css in html 
   + 2.1.0 webpack3 
   + 2.0.9 add parallel uglify => reduce build time
