@@ -1,4 +1,4 @@
 module.exports = {
-    common:require('./lib/common-webpack.config'),
-    dev:require('./lib/gulp-webpack')
+    common:require('./lib/common'),
+    dev:require('./lib/dev')
   }
