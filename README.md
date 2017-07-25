@@ -2,7 +2,7 @@
   + multiple files entry
   + js、css & html livereload
   + proxy switch 
-  + some simple gulp tasks 
+  + ~~some simple gulp tasks~~
 ## install
 ```script
 npm i webpack-dev-bash --save-dev
