@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let path = require('path')
 var proxy = 'prod'
 // var proxy = 'dev'
