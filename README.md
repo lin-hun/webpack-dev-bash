@@ -48,6 +48,7 @@ insert in js
 demo in test/ 
 
 ## log
+  + 2.2.4 js ref add hash
   + 2.2.3 support async & await
   + 2.2.1 remove gulp 
   + 2.1.2 extract css in html 
