@@ -1,5 +1,11 @@
-.fuck{
+.container{
+  width:500px;
   display: flex;
-  color:#fff;
-  background: none;
+  flex-direction: row;
+  .sub{
+    flex:1;
+    //width:200px;
+    height: 200px;
+    background: #000;
+  }
 }

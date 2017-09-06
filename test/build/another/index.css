@@ -1,6 +1,15 @@
-.fuck {
+.container {
+  width: 500px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  color: #fff;
-  background: none; }
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row; }
+  .container .sub {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    height: 200px;
+    background: #000; }
