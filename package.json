@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-bash",
-  "version": "2.2.8",
+  "version": "2.3.0",
   "description": "build tools",
   "main": "index.js",
   "scripts": {
@@ -31,11 +31,8 @@
     "style-loader": "^0.13.1",
     "webpack": "3.x.x",
     "webpack-dev-server": "^2.4.5",
-    "webpack-parallel-uglify-plugin": "^0.4.2"
+    "babel-plugin-transform-async-to-generator": "^6.24.1"
   },
   "author": "浮生",
-  "license": "MIT",
-  "devDependencies": {
-    "babel-plugin-transform-async-to-generator": "^6.24.1"
-  }
+  "license": "MIT"
 }
